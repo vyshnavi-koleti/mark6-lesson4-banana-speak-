@@ -11,10 +11,14 @@ body {
     text-align: center;
     /* background: url(https://wallpapercave.com/wp/JuJ6uTE.jpg); */
 
-    /* background: url(https://wallpapercave.com/wp/dvsE7Av.jpg); */
+    /* background: url(https://mcdn.wallpapersafari.com/medium/98/20/7APlok.jpg); */
 
-    /* background-repeat: no-repeat;
-    background-size: auto; */
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+    /* background-image: url('images/background.jpg'); */
+
+    background: url(https://wallpapercave.com/wp/dAbpgLm.jpg);
     
 }
 
