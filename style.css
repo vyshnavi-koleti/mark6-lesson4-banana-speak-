@@ -9,15 +9,8 @@ body {
     font-family: 'Comic Neue', cursive;
     margin: 0px;
     text-align: center;
-    /* background: url(https://wallpapercave.com/wp/JuJ6uTE.jpg); */
-
-    /* background: url(https://mcdn.wallpapersafari.com/medium/98/20/7APlok.jpg); */
-
     background-repeat: no-repeat;
     background-size: auto;
-    
-    /* background-image: url('images/background.jpg'); */
-
     background: url(https://wallpapercave.com/wp/dAbpgLm.jpg);
     
 }
@@ -38,9 +31,6 @@ textarea {
     width: 50%;
     display: block;
     padding: 2rem;
-    /* margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1rem; */
     margin:  1rem auto 1rem auto;
     border-radius: 1rem;
     background: transparent;
@@ -51,8 +41,6 @@ button {
     font-family: inherit;
     display: block;
     border-radius: 1rem;
-    /* margin-left: auto;
-    margin-right: auto; */
     margin:  2rem auto 1rem auto;
     font-size: 1rem;
 }
@@ -63,9 +51,6 @@ button {
     display: block;
     padding: 2rem;
     border: 1px solid black;
-    /* margin-left: auto;
-    margin-right: auto;
-    margin-top: 1rem; */
     margin:  1rem auto 1rem auto;
     border-radius: 1rem;
 }
